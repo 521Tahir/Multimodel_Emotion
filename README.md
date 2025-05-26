@@ -50,9 +50,6 @@ Supports dropout testing.
 
 Compares real vs. generated input accuracy.
 
-**OUTPUTS:**
-<img width="558" alt="train_performance" src="https://github.com/user-attachments/assets/9de0d1ab-9445-45cf-9437-571ee83dc715" />
-<img width="338" alt="confusion matrix plot" src="https://github.com/user-attachments/assets/010eea11-14b8-47e8-acef-aaf5e02ea5d3" />
 
 
 **Overall Summary**
