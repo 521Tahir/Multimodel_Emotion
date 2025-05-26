@@ -50,7 +50,7 @@ Supports dropout testing.
 
 Compares real vs. generated input accuracy.
 
-**Overall Summaryr**
+**Overall Summary**
 
 Dataset Handling:	Implemented	CMU-MOSEI + IEMOCAP used
 Text Feature Extraction (BERT):  Implemented	Replaces GloVe (differs from paper)
