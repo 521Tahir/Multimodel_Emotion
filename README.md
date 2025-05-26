@@ -52,16 +52,16 @@ Compares real vs. generated input accuracy.
 
 **Overall Summaryr**
 
-Dataset Handling	✅ Implemented	CMU-MOSEI + IEMOCAP used
-Text Feature Extraction (BERT)	✅ Implemented	Replaces GloVe (differs from paper)
-Cross-modal Translator (GAN)	✅ Core done	Lacks sequence-level discriminator
-SeqDis (Seq-level GAN)	❌ Not done	Needed for full temporal learning
-Modality Transformers	✅ Implemented	Transformer per modality
-Cycle Consistency Loss	✅ Done	Present in translator
-End2End Update Ratio	❌ Not done	Translator:Classifier ratio missing
-Auxiliary Datasets	❌ Not integrated	AFEW, CK+, SemEval missing
-Ablation Tests	🟡 Partially done	No per-modality variant evaluation
-Visualization (Confusion Matrix)	✅ Done	Matches paper’s visual outputs
+Dataset Handling:	Implemented	CMU-MOSEI + IEMOCAP used
+Text Feature Extraction (BERT):  Implemented	Replaces GloVe (differs from paper)
+Cross-modal Translator (GAN):Core done	Lacks sequence-level discriminator
+SeqDis (Seq-level GAN): Not done	Needed for full temporal learning
+Modality Transformers	: Implemented	Transformer per modality
+Cycle Consistency Loss: Done	Present in translator
+End2End Update Ratio: Not done	Translator:Classifier ratio missing
+Auxiliary Datasets: Not integrated	AFEW, CK+, SemEval missing
+Ablation Tests: Partially done	No per-modality variant evaluation
+Visualization (Confusion Matrix):  Done	Matches paper’s visual outputs
 
 
 
